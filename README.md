@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Dhruv Dwivedi 👋
 
-<!--
-**dhruvdwivedi754-blip/dhruvdwivedi754-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence & Data Science) Student
 
-Here are some ideas to get you started:
+💻 Interested in Python, SQL, Data Analysis, Machine Learning and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Python
+- SQL / MySQL
+- Microsoft Excel
+- Data Analysis
+- Machine Learning
+- Git & GitHub
+- Make.com
+- backend
+
+---
+
+## 📂 Projects
+
+- HR Salary Data Analysis using SQL
+- Data Analysis using Python & Pandas
+- Make.com Email Automation
+- AgriNova – Smart Crop Advisory System
+
+---
+
+## 📚 Currently Learning
+
+- Python Backend
+- Machine Learning
+- Data Analysis
+- Automation
+
+---
+
+## 🔗 Connect with Me
+
+- LinkedIn: [Dhruv Dwivedi](https://www.linkedin.com/in/dhruv-dwivedi-79750a381/)
